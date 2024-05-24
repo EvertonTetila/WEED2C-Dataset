@@ -12,6 +12,10 @@ The agricultural areas are located in the municipalities of Caarapó-MS and Dour
 
 With the support of a field expert Agronomist, each dataset image was annotated in Labellmg https://github.com/tzutalin/labelImg, thus building a reference collection for the training and testing dataset of the system called WEED2C-Dataset.
 
+# Dataset download 
+
+Link:http://evertontetila.ws.ufgd.edu.br/Datasets/WEED2C-Dataset.zip
+
 # Acknowledgements
 
 This dataset was created by the authors and should be cited as follows:
