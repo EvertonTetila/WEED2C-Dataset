@@ -14,7 +14,7 @@ With the support of a field expert Agronomist, each dataset image was annotated 
 
 # Dataset download 
 
-Link:http://evertontetila.ws.ufgd.edu.br/Datasets/WEED2C-Dataset.zip
+Link: http://evertontetila.ws.ufgd.edu.br/Datasets/WEED2C-Dataset.zip
 
 # Acknowledgements
 
