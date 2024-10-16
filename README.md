@@ -15,3 +15,10 @@ With the support of a field expert Agronomist, each dataset image was annotated 
 # Dataset download 
 
 Link: http://evertontetila.ws.ufgd.edu.br/Datasets/WEED2C-Dataset.zip
+
+# Acknowledgements
+
+This dataset was created by the authors and should be cited as follows:
+
+TETILA, EVERTON CASTELÃO ; MORO, BARBARA LOPES ; ASTOLFI, GILBERTO ; DA COSTA, ANDERSON BESSA ; AMORIM, WILLIAN PARAGUASSU ; BELETE, NÍCOLAS ALESSANDRO DE SOUZA ; PISTORI, HEMERSON ; BARBEDO, JAYME GARCIA ARNAL . Real-time detection of weeds by species in soybean using UAV images. Crop Protection, v. 184, p. 106846, 2024. https://doi.org/10.1016/j.cropro.2024.106846
+ 
